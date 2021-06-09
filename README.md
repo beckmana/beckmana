@@ -14,8 +14,6 @@ HTML | CSS | JavaScript | jQuery | React | Node.js | Express | PostgreSQL | Git
 
 - 🧠 I am currently learning **Java.**
 
-- 💬 Ask me about **JavaScript, React, and Node**
-
 - 😄 Pronouns: **She / Her**
 
 - 📫 How to reach me: **[LinkedIn](www.linkedin.com/in/alexis-beckman)**
