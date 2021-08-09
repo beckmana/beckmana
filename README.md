@@ -7,10 +7,11 @@ I'm a full stack developer, residing in Milwaukee.
 HTML | CSS | JavaScript | jQuery | React | Node.js | Express | PostgreSQL | Git 
 
 ## Updates
-
+<!--
 - 🔭 I’m currently working on **a money calculator app**
 
 - 💻 I’m looking for work!
+-->
 
 - 🧠 I am currently learning **Java.**
 
